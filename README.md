@@ -1,0 +1,1 @@
+https://matplotlib.org/3.5.0/tutorials/colors/colormaps.html
